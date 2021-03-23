@@ -1,0 +1,12 @@
+CaptureBirthdayIntent
+I was born in {month} {year}
+I was born on {month} {day}
+{month} {year}
+{month} {day} {year}
+{month} {day}
+I was born on {month} {day} {year}
+q
+q
+AMAZON.Month
+AMAZON.FOUR_DIGIT_NUMBER
+AMAZON.Ordinal
